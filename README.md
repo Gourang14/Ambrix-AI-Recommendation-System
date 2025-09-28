@@ -6,6 +6,8 @@ I developed a **hybrid recommendation system** that combines **content similarit
 https://ambrixai.streamlit.app/
 
 ---
+## Tutorial Video Explanation:
+https://drive.google.com/file/d/1JBgJmnUE3ItMx3qfy0aZ31KeY_kyYyNC/view?usp=sharing
 
 ## Features
 - **Content-Based Filtering** (TF-IDF + Cosine Similarity)
