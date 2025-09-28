@@ -6,7 +6,7 @@ I developed a **hybrid recommendation system** that combines **content similarit
 https://ambrixai.streamlit.app/
 
 ---
-## Tutorial Video Explanation:
+## Tutorial Video:
 https://drive.google.com/file/d/1JBgJmnUE3ItMx3qfy0aZ31KeY_kyYyNC/view?usp=sharing
 
 ## Features
