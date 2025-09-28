@@ -3,7 +3,7 @@
 I developed a **hybrid recommendation system** that combines **content similarity** (matching user interests to post tags) with **collaborative filtering** (what similar users interacted with). I implemented cold start handling using popularity ranking and exposed everything in an interactive Streamlit UI so stakeholders can test recommendations per user.
 
 ## Access the live app here:  
-https://ambrix-ai-recommender-system-3tq5ukq7lexcm22cakzagx.streamlit.app/
+https://ambrixai.streamlit.app/
 
 ---
 
@@ -82,4 +82,4 @@ You need **three CSV files**:
 4. View Analytics Dashboard
 
 ---
-[![Live Demo](https://img.shields.io/badge/Streamlit-View%20Live-blue)](https://ambrix-ai-recommender-system-3tq5ukq7lexcm22cakzagx.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Streamlit-View%20Live-blue)](https://ambrixai.streamlit.app/)
